@@ -1,2 +1,5 @@
 for i in range(1, 6):
-    print("It works!!!")
+    if i % 2 == 0:
+        print("It works!!!")
+    else:
+        print("It doesn't Work!!!")
