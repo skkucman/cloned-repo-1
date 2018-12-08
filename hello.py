@@ -1,4 +1,2 @@
-def print_hello():
-    return print("Hello")
-
-print_hello()
+for i in range(1, 6):
+    print("It works!!!")
